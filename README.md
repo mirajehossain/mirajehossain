@@ -17,7 +17,7 @@ I am autodidact to exploring new areas of science and technologies, love to solv
 
 - Nodejs, Python, Golang
 - Express, Django
-- PostgreSQL, MySQL, Mongodb
+- PostgreSQL, MySQL, Mongodb, Redis
 - Docker, gRPC, RabbitMQ
 
 ### Technologies I've worked with.:
@@ -29,7 +29,7 @@ I am autodidact to exploring new areas of science and technologies, love to solv
     "backend": ["Nodejs", "Expressjs", "Django"],
     "frontend": ["Angular", "Bootstrap"]
   },
-  "database": ["Mysql", "PostgreSQL", "MongoDB"],
+  "database": ["Mysql", "PostgreSQL", "MongoDB", "Redis"],
   "misc": [
     "Docker",
     "AWS(EC2, S3, Elastic transcoder, SQS, SNS)",
