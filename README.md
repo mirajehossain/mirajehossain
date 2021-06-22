@@ -16,9 +16,9 @@ I am autodidact to exploring new areas of science and technologies, love to solv
 🔭 <b>Currently working on:</b>
 
 - Nodejs, Python, Golang
-- Express, Django
+- Express, Nestjs, Django
 - PostgreSQL, MySQL, Mongodb, Redis
-- Docker, gRPC, RabbitMQ
+- Docker, k8s, RabbitMQ
 
 ### Technologies I've worked with.:
 
@@ -26,7 +26,7 @@ I am autodidact to exploring new areas of science and technologies, love to solv
 {
   "languages": ["Javascript", "Typescript", "Python", "Golang", "C/++"],
   "frameworks/libraries": {
-    "backend": ["Nodejs", "Expressjs", "Django"],
+    "backend": ["Nodejs", "Expressjs","NestJS", "Django"],
     "frontend": ["Angular", "Bootstrap"]
   },
   "database": ["Mysql", "PostgreSQL", "MongoDB", "Redis"],
